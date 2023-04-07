@@ -12,7 +12,7 @@ class InsertionSort{
             A[i + 1] = key;
         }
     }
-
+ 
     static void printArray(int A[], int n){
         for(int i = 0; i < n; i++){
             System.out.print(A[i]);
